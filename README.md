@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshay Palve</h1>
-<h3 align="center">A passionate frontend and backend developer from India</h3>
+<h3 align="center">A passionate Mern Stack Developer and Software Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaydpalve&label=Profile%20views&color=0e75b6&style=flat" alt="akshaydpalve" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **akshaypalve2001@gmail.com**
 
-- 📄 Know about my experiences [https://cvdesignr.com/p/6312e8878d3d8](https://cvdesignr.com/p/6312e8878d3d8)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1hFfkv0c3osFWvxUEda-yNbG_EITTNt68/view?usp=drive_link](https://drive.google.com/file/d/1hFfkv0c3osFWvxUEda-yNbG_EITTNt68/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
